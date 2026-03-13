@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/uniconverter">  
+<a href="https://etboratem.github.io/.github/uniconverter-multimedia-solution">  
 <img src="https://img.shields.io/badge/GET_UniConverter-darkgreen?style=for-the-badge&logo=apple" alt="GET UniConverter">  
 </a>  
 </div>  
